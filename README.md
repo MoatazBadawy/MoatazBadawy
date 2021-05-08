@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Moataz Badawy
+- 👋 Hi, I’m Moataz
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on greate projects withsuper ideas
