@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moataz
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on greate projects withsuper ideas
+- 💞️ I’m looking to collaborate on greate projects with super ideas
 - 📫 How to reach me ...
 
 <!---
