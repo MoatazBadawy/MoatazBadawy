@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Moataz, Android developer from <img src="https://image.flaticon.com/icons/png/512/1598/1598431.png" width="13"/> <b>The Earth</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/533/533451.png" width="13"/> <b>Cairo, Egypt</b>. </p>
+<p>Welcome to my page! </br> I'm Moataz, Android developer from <img src="https://image.flaticon.com/icons/png/512/1598/1598431.png" width="24"/> <b>The Earth</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/533/533451.png" width="24"/> <b>Cairo, Egypt</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
