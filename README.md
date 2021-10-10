@@ -7,7 +7,7 @@
 - check our communty [instagram](https://www.instagram.com/thecoderui/)
 
 # Stats 
-[![MOataz's github stats](https://github-readme-stats.vercel.app/api?username=MoatazBadawy)](https://github.com/anuraghazra/github-readme-stats)
+[![MOataz's github stats](https://github-readme-stats.vercel.app/api?username=MoatazBadawy&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Open Sorce
