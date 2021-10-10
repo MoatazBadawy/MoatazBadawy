@@ -42,6 +42,6 @@
 
 Open Source Contributor from <b>Islamic World<b> 💚 
 
-![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
+![](https://visitor-badge.glitch.me/badge?page_id=MoatazBadawy)
 ------------
 <p align="center"> ❤️ اللهم صلي وسلم وبارك على نبينا محمد وعلى آله وصحبه أجمعين
