@@ -10,14 +10,15 @@
 [![MOataz's github stats](https://github-readme-stats.vercel.app/api?username=MoatazBadawy)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# ✍ Open Sorce
+# Open Sorce
 
 - [Sunset Hadith App](https://github.com/MoatazBadawy/Sunset-hadith)
 - [MOX Articles](https://github.com//MoatazBadawy/MOX/)
 
 
 
-Open Source Contributor from <b>Islamic World<b>  ❤️ 
+
+### Open Source Contributor from <b>Islamic World<b>  ❤️ 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MoatazBadawy)
 ------------
