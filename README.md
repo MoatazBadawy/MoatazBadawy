@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🥽 I'm Moataz
-- 🔭 An Android Kotlin Developer
+- 🔭 An Android Developer
 - 💬 Ask me about (Android, Kotlin, Java)
 - 📫 How to reach me: [Linkedin](https://www.moataz-badawy/)
 - check our communty [instagram](https://www.instagram.com/thecoderui/)
