@@ -6,3 +6,7 @@ If you have any questions about Software engeneering, Kotlin or android, and you
 
 You can also ask and follow me on Linkedin: [linkedin.com/moataz-badawy](https://www.linkedin.com/in/moataz-badawy/)
 <!--START_SECTION:helpdesk-shows-->
+
+## Fresh open source apps 😉
+
+- 📅 12/26 @ 12:00pm PT — [Refactoring a 10+ years old code base: nock (Part VII)](https://github.com/gr2m/helpdesk/issues/60)
