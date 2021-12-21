@@ -20,4 +20,4 @@ You can also ask and follow me on Linkedin: [linkedin.com/moataz-badawy](https:/
 - [What is Extreme Programming?](https://www.developer.com/project-management/extreme-programming-2/)
 - [Goodbye Android Emulators, the Windows Subsystem for Android is Here!](https://montemagno.com/goodbye-android-emulators-windows-subsytem-for-android-is-here/)
 - [Google Chrome Hidden Features Every Developer Should Know](https://blog.bitsrc.io/google-chrome-experimental-features-for-developers-a9a7cc9d1b30)
-- [I’m a lazy developer but efficien](https://levelup.gitconnected.com/im-a-lazy-developer-but-be-efficient-600437ecca2e)
+- [I’m a lazy developer but efficien!](https://levelup.gitconnected.com/im-a-lazy-developer-but-be-efficient-600437ecca2e)
