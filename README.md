@@ -8,7 +8,7 @@ You can also ask and follow me on Linkedin: [linkedin.com/moataz-badawy](https:/
 
 
 ## Open source we love 🏂
-- 🕌 [Sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) — Best App to learn RestFULAPI, RxJava, MVVM, Room, and mixed Kotlin code with Java.
+- 🕌 [Sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) — Best App to learn RestAPI, RxJava, MVVM, Room, and mixed Kotlin code with Java.
 - 🐶 [Wiggles](https://github.com/MoatazBadawy/Wiggles) — Beautiful Puppy adoption app with Jetpack Compose #AndroidDevChallenge.
 - ☀️ [WeatherZone](https://github.com/SoumikBhatt/WeatherZone) — Weather App with MVVM using OpenWeather API. Written in Kotlin.
 - 🗞 [JetNews](https://github.com/android/compose-samples/tree/master/JetNews) — Jetnews is a sample news reading app, built with Jetpack Compose. 
