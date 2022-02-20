@@ -15,7 +15,7 @@ You can also ask and follow me on Linkedin: [linkedin.com/moataz-badawy](https:/
 - ⌚️ [Wear os samples](https://github.com/android/wear-os-samples) — Multiple samples showing best practices in app and watch face development on Wear OS.
 
 
-## Tech Articles For You
+## Tech Articles
 - [How WhatsApp scaled to 1 billion users with only 50 engineers](https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion)
 - [What is Extreme Programming?](https://www.developer.com/project-management/extreme-programming-2/)
 - [Goodbye Android Emulators, the Windows Subsystem for Android is Here!](https://montemagno.com/goodbye-android-emulators-windows-subsytem-for-android-is-here/)
