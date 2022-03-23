@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm the Owner of [sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) – The app that uses by +2K users.
+I'm the Owner of [sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) – The app that uses by +3K users.
 
 If you have any questions about Software engeneering, Kotlin or android, and you think it would be interesting for others, too, please create an issue in my [helpdesk](https://github.com/MoatazBadawy/helpdesk) repository. Questions by people new to coding are strongly encouraged! 
 
