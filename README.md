@@ -1,14 +1,10 @@
 # Hi there 👋
 
-I'm Moataz
-
-I'm the Owner of [sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) – The app that uses by +3K users.
-
-I know Java, Kotlin and some of the python to play with AWESOME Script.
-
-Cuntrrly I am working with my loved programming language Kotlin.
-
-My English language skills? Test me and you will Decide your answer.
+* I'm Moataz
+* I'm the Owner of [sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) – The app that uses by +3K users.
+* I know Java, Kotlin and some of the python to play with AWESOME Script.
+* Cuntrrly I am working with my loved programming language Kotlin.
+* My English language skills? Test me and you will Decide your answer.
 
 If you have any questions about Kotlin or android or love want to follow my cool posts follow me on Linkedin: [linkedin.com/moataz-badawy](https://www.linkedin.com/in/moataz-badawy/) It makes me really happy to communicate with programmers, whatever their experience 😃
 
