@@ -1,6 +1,6 @@
 # Hey, Nice to see you :smiley:
 
-I'm the Owner of [sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) – The app that is downloaded by 10,000 users.
+I'm the Owner of [sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) – The app that is downloaded by 10K+ users.
 * I know Java, Kotlin and am interesting in design patterns and algorithm.
 * I also know some of python to play with the AWESOME Scripts around the world.
 * Cuntrrly I am working with My favorite programming language "Kotlin".
