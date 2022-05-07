@@ -1,11 +1,11 @@
 # Hey, Nice to see you :smiley:
 
 I'm the Owner of [sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) – The app that is downloaded by 10k+ users.
-* I know Java, Kotlin and am interesting in design patterns and algorithm.
-* I also know some of python to play with the AWESOME Scripts around the world.
-* Cuntrrly I am working with My favorite programming language "Kotlin".
-
-If you have any questions about Kotlin or android or like to be one of my connection, follow me on Linkedin: [linkedin.com/moataz-badawy](https://www.linkedin.com/in/moataz-badawy/) It makes me really happy to communicate with programmers, whatever their experience is :D
+- 🔭 I’m currently working on Android development
+- 🌱 I know Kotlin, Java and python
+- 👯 I’m looking to collaborate on Android Projects
+- 🤔 Have a good position for me? let's connect on my Email: moataz.egy101@gmail.com
+- 📫 How to reach me: LinkedIn: (https://www.linkedin.com/in/moataz-badawy/), Instagram: @thecoderui
 
 ## Open source I loved 🏂
 - 🕌 [Sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) — Best App to learn RestAPI, RxJava, MVVM, Room, and mixed Kotlin code with Java.
