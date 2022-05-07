@@ -1,4 +1,4 @@
-# Hey, Happy to see you here :smiley:
+# Hey, Nice to see you :smiley:
 
 I'm the Owner of [sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) – The app that is downloaded by 10,000 users.
 * I know Java, Kotlin and am interesting in design patterns and algorithm.
