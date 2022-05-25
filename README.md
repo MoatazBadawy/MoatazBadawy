@@ -1,4 +1,4 @@
-# Hey, Nice to see you :smiley:
+# Hey, Nice to see you ❤️
 I'm the Owner of [sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) – The app that is downloaded by 6k+ users.
 - 🔭 I’m currently working on Android Software Development
 - 🌱 I know Kotlin, The modern programming language
