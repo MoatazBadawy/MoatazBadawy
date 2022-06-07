@@ -1,5 +1,5 @@
 # Hey, Nice to see you ❤️
-- 🥷 My name is Moataz Mohamed
+- 🥷 I'm Moataz
 - 🔭 I'm the Owner of [sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) – The app that is downloaded by 10k+ users.
 - 🤖 I’m currently working on Android Kotlin Development.
 - 🌱 I know Kotlin and Java The modern programming language
