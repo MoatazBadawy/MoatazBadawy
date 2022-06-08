@@ -1,7 +1,7 @@
 # Hey, Nice to see you ❤️
-- 🥷 My name is Moataz
+- 🥷 I'm Moataz, Android kotlin developer
 - 🔭 I'm the Owner of [sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) – The app that is downloaded by 10k+ users.
-- 🤖 I’m currently working on Android Kotlin Development.
+- 🤖 I’m currently working on Android Softwrae Engeneering.
 - 🌱 I know Kotlin and Java The modern programming language
 - 👯 I’m looking for Android Junior/Intership opportunity
 - 🤔 Have a good position for me? let's connect on my Email: moataz.egy101@gmail.com
