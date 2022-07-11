@@ -5,7 +5,8 @@
 - 🌱 I know Kotlin and Java The modern programming language
 - 👯 I’m looking for Android developer (Junior / Entry level) opportunity
 - 🤔 Have a good position for me? let's connect on my Email: moataz.egy101@gmail.com
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/moataz-badawy/, Instagram: @thecoderui
+
+[![Play Store](https://img.shields.io/badge/-PlayStore-ffffff?style=flat&logo=googleplay&logoColor=27ae60)](https://play.google.com/store/apps/dev?id=5917932349047188225&hl=en&gl=US) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=0984e3)](https://www.linkedin.com/in/moataz-badawy) [![StackOverflow](https://img.shields.io/badge/-StackOverflow-ffffff?style=flat&logo=StackOverflow)](https://stackoverflow.com/users/13440404/moataz) [![Twitter](https://img.shields.io/badge/-Twitter-ffffff?style=flat&logo=Twitter)](https://twitter.com/thecoderui) [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=flat&logo=Instagram)](https://www.instagram.com/thecoderui/?hl=en)
 
 ## Open source I loved 🏂
 - 🕌 [Sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) — Best App to learn RestAPI, RxJava, MVVM, Room, and mixed Kotlin code with Java.
