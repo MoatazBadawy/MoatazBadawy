@@ -2,7 +2,7 @@
 - 🥷 My name is Moataz.
 - 👨‍💻 Android kotlin developer.
 - 🔭 I created [sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) – The app that is downloaded by 11k+.
-- 👯 I’m looking for Android Software Engeneer (Entery level) opportunity
+- 👯 I’m looking for Android Software Engeneer (Entery level) opportunity.
 - 💬 let's connect on my Email: moataz.egy101@gmail.com
 
 [![Play Store](https://img.shields.io/badge/-PlayStore-ffffff?style=flat&logo=googleplay&logoColor=27ae60)](https://play.google.com/store/apps/details?id=com.moataz.afternoonhadeeth&hl=en&gl=US) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=0984e3)](https://www.linkedin.com/in/moataz-badawy) [![StackOverflow](https://img.shields.io/badge/-StackOverflow-ffffff?style=flat&logo=StackOverflow)](https://stackoverflow.com/users/13440404/moataz) [![Twitter](https://img.shields.io/badge/-Twitter-ffffff?style=flat&logo=Twitter)](https://twitter.com/thecoderui) [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=flat&logo=Instagram)](https://www.instagram.com/thecoderui/?hl=en)
