@@ -7,9 +7,6 @@
 
 [![Play Store](https://img.shields.io/badge/-PlayStore-ffffff?style=flat&logo=googleplay&logoColor=27ae60)](https://play.google.com/store/apps/details?id=com.moataz.afternoonhadeeth&hl=en&gl=US) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=0984e3)](https://www.linkedin.com/in/moataz-badawy) [![StackOverflow](https://img.shields.io/badge/-StackOverflow-ffffff?style=flat&logo=StackOverflow)](https://stackoverflow.com/users/13440404/moataz) [![Twitter](https://img.shields.io/badge/-Twitter-ffffff?style=flat&logo=Twitter)](https://twitter.com/thecoderui) [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=flat&logo=Instagram)](https://www.instagram.com/thecoderui/?hl=en)
 
-# Stats 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoatazBadawy&" alt="MoatazBadawy" /></p>
-
 ## Open source I loved 🏂
 - 🕌 [Sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) — Best App to learn RestAPI, RxJava, MVVM, Room, and mixed Kotlin code with Java.
 - 🐶 [Wiggles](https://github.com/MoatazBadawy/Wiggles) — Beautiful Puppy adoption app with Jetpack Compose #AndroidDevChallenge.
