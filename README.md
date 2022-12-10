@@ -1,10 +1,5 @@
-# Hey, Nice to see you ❤️
-I'm a Software Engineer with strong knowledge of Android development technologies, I build apps with clean architecture and clean code to deliver maintainable, testable, well-designed, and high-quality products. I have a producte that have more than 13K downloades on google play.
-In this time I'm intersting of immplumemnt google app recomrnded arthcrie and modulazion of project.
-- 👨‍💻 Android kotlin developer.
-- 🔭 I created [sunset hadith](https://github.com/MoatazBadawy/Sunset-hadith) – The app that is downloaded more than 13K+.
-- 👯 I’m looking for Android Software Engeneer opportunity.
-- 💬 let's connect on my Email: moataz.egy101@gmail.com
+I'm a Software Engineer with strong knowledge of Android development technologies using kotlin, I build apps with clean architecture and clean code to deliver maintainable, testable, well-designed, and high-quality products. I have a product that has more than 13K downloads on google play.
+At this time I'm interested in implementing the google app recommended architecture and modularization. Feel free to browse my projects and profile and connect with me if you want to hire a strong Android Engineer and you have a great position at your company.
 
 [![Play Store](https://img.shields.io/badge/-PlayStore-ffffff?style=flat&logo=googleplay&logoColor=27ae60)](https://play.google.com/store/apps/details?id=com.moataz.afternoonhadeeth&hl=en&gl=US) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=0984e3)](https://www.linkedin.com/in/moataz-badawy) [![StackOverflow](https://img.shields.io/badge/-StackOverflow-ffffff?style=flat&logo=StackOverflow)](https://stackoverflow.com/users/13440404/moataz) [![Twitter](https://img.shields.io/badge/-Twitter-ffffff?style=flat&logo=Twitter)](https://twitter.com/thecoderui) [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=flat&logo=Instagram)](https://www.instagram.com/thecoderui/?hl=en)
 
