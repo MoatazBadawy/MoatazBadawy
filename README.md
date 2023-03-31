@@ -1,4 +1,6 @@
-I'm an Android Developer (Entry-level/Junior) with experience building apps using clean architecture to deliver maintainable, testable, well-designed, and high-quality products. I have a product on Google Play that has been downloaded 16,000  times. I'm an intelligent young developer and always try my best to grow any product to the top. You can browse my projects and contribute with us, or connect with me if you want to hire a strong Android Developer and have a great position at your company.
+I am a highly motivated and skilled Android Engineer with experience in clean architecture and a focus on delivering well-designed, maintainable, and high-quality apps. As an entry-level/junior developer, I have a passion for creating top-performing apps and constantly strive to enhance my skills.
+
+
 
 [![Play Store](https://img.shields.io/badge/-PlayStore-ffffff?style=flat&logo=googleplay&logoColor=27ae60)](https://play.google.com/store/apps/details?id=com.moataz.afternoonhadeeth&hl=en&gl=US) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=0984e3)](https://www.linkedin.com/in/moataz-badawy) [![StackOverflow](https://img.shields.io/badge/-StackOverflow-ffffff?style=flat&logo=StackOverflow)](https://stackoverflow.com/users/13440404/moataz) [![Twitter](https://img.shields.io/badge/-Twitter-ffffff?style=flat&logo=Twitter)](https://twitter.com/thecoderui) [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=flat&logo=Instagram)](https://www.instagram.com/thecoderui/?hl=en)
 
