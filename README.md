@@ -1,4 +1,4 @@
-I am a highly motivated and skilled Android Engineer with experience in clean architecture and a focus on delivering well-designed, maintainable, and high-quality apps. As an entry-level/junior developer, I have a passion for creating top-performing apps and constantly strive to enhance my skills.
+I am a highly motivated and skilled Android Engineer with experience in clean architecture and a focus on delivering well-designed, maintainable, and high-quality apps. 
 
 
 
