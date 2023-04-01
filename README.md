@@ -1,4 +1,4 @@
-I am a highly motivated and skilled Android Engineer with experience in clean architecture and a focus on delivering well-designed, maintainable, and high-quality apps. 
+I am a highly motivated and skilled Android Engineer with experience in clean architecture and a focus on delivering maintainable, testable, well-designed, and high-quality apps. 
 
 
 
