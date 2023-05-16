@@ -1,1 +1,1 @@
-<h3 align="center">Change the World by your code 🥷</h3>
+<h3 align="center">اللهم صل وسلم وبارك على نبينا محمد</h3>
